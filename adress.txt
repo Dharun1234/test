@@ -1,2 +1,6 @@
+<<<<<<< HED
 what happend here?
 this this for merge
+=======
+what happend now is different foem before
+>>>>>>> 45b2ca5 (there is the second commit for merge conflict)
